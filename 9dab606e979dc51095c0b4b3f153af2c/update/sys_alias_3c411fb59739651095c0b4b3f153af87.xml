@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_333993_rent_a_0.Mockahoo_Cars</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Mockahoo_Cars</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-03-26 13:39:29</sys_created_on>
+        <sys_id>3c411fb59739651095c0b4b3f153af87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_333993_rent_a_0.Mockahoo_Cars</sys_name>
+        <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+        <sys_update_name>sys_alias_3c411fb59739651095c0b4b3f153af87</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-03-26 13:39:29</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

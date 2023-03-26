@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Rent a Car Portal Config">96fb37a59701e11095c0b4b3f153af6e</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional Details</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(task)">66fb37a58901e1102b17af3151ddd497</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_additional</route_type>
+        <screen_type display_value="Additional Details">2afb37a55d01e1101483d889252d6b94</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-16 15:20:01</sys_created_on>
+        <sys_id>aafb37a54501e1108785c7f88ddafd94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details</sys_name>
+        <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+        <sys_update_name>sys_ux_app_route_aafb37a54501e1108785c7f88ddafd94</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-16 15:20:01</sys_updated_on>
+    </sys_ux_app_route>
+</record_update>

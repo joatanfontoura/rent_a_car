@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d62e2c6297ddc51095c0b4b3f153afa0" sys_domain="global" table="x_333993_rent_a_0_veiculos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>30f09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>modelo</element>
+            <position>1</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>b4f09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marca</element>
+            <position>2</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>38f09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chassi</element>
+            <position>3</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>b8f09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>placa</element>
+            <position>4</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>3cf09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cor</element>
+            <position>5</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>bcf09ab69791011095c0b4b3f153afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>30f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ativo</element>
+            <position>7</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>b0f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>picture</element>
+            <position>8</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>34f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aquisicao</element>
+            <position>9</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>b4f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>venda</element>
+            <position>10</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>38f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>b8f09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_handling_notes</element>
+            <position>12</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>3cf09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Special Handling Notes Pop Up">07103c0dc351120095ccd02422d3ae9b</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observacoes</element>
+            <position>13</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-30 22:38:09</sys_created_on>
+            <sys_id>fcf09ab69791011095c0b4b3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-30 22:38:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>year</element>
+            <position>14</position>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2023-03-26 13:23:02</sys_created_on>
+            <sys_id>28ad03fd97f5651095c0b4b3f153af86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_333993_rent_a_0_veiculos" sys_domain="global" view="Default view">d62e2c6297ddc51095c0b4b3f153afa0</sys_ui_section>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2023-03-26 13:23:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_333993_rent_a_0_veiculos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-29 20:48:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d62e2c6297ddc51095c0b4b3f153afa0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_333993_rent_a_0_veiculos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+            <sys_update_name>sys_ui_section_d62e2c6297ddc51095c0b4b3f153afa0</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-29 20:48:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

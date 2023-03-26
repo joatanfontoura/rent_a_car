@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table" label="table" language="en" table="var__m_sys_declarative_action_payload_field_045d203e53002010c5e2ddeeff7b12c8">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>table</label>
+            <language>en</language>
+            <name>var__m_sys_declarative_action_payload_field_045d203e53002010c5e2ddeeff7b12c8</name>
+            <plural>table</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-02-16 15:20:03</sys_created_on>
+            <sys_id>2efb37a58101e110bc8163391171f69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table</sys_name>
+            <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_declarative_action_payload_field_045d203e53002010c5e2ddeeff7b12c8_table_en</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-02-16 15:20:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">66fb37a5ad01e110ec2ec010a36cd39c</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">aefb37a52201e110a637f1b9f2df698e</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-16 15:19:59</sys_created_on>
+        <sys_id>a2fb37a5e201e110516ed1fe2a90cc8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_a2fb37a5e201e110516ed1fe2a90cc8c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-16 15:19:59</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

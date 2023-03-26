@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>featureRoutes</name>
+        <page display_value="Rent a Car">5a48133b14e5011027e8b24ac5a49438</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-28 21:05:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>e17e17c197a6011095c0b4b3f153af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>featureRoutes</sys_name>
+        <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+        <sys_update_name>sys_ux_page_property_e17e17c197a6011095c0b4b3f153af05</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-28 21:05:55</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_333993_rent_a_0.5a48133b14e5011027e8b24ac5a49438.root.featureRoutes</unique_name>
+        <value>{"record":{"_default":{"routeInfo":{"route":"record","fields":[{"name":"table","mapping":{"address":"table"}},{"name":"sysId","mapping":{"address":"sysId"}}],"params":[{"name":"query","mapping":{"address":"query"}},{"name":"extraParams","mapping":{"address":"extraParams"}}]}}},"list":{"_default":{"routeInfo":{"route":"list","fields":[],"params":[{"name":"listId","mapping":{"address":"listId"}},{"name":"configId","mapping":{"address":"configId"}},{"name":"tinyId","mapping":{"address":"tinyId"}}]}}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=e17e17c197a6011095c0b4b3f153af05"/>
+</record_update>

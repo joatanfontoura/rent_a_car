@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="marca" table="x_333993_rent_a_0_veiculos" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>marca</element>
+            <name>x_333993_rent_a_0_veiculos</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-29 20:47:15</sys_created_on>
+            <sys_id>36fde86297ddc51095c0b4b3f153af3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>marca</sys_name>
+            <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent a Car">9dab606e979dc51095c0b4b3f153af2c</sys_scope>
+            <sys_update_name>sys_choice_x_333993_rent_a_0_veiculos_marca</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chevrolet</label>
+            <language>en</language>
+            <name>x_333993_rent_a_0_veiculos</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-29 20:47:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2fde86297ddc51095c0b4b3f153af50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
+            <value>Chevrolet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fiat</label>
+            <language>en</language>
+            <name>x_333993_rent_a_0_veiculos</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-29 20:47:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6fde86297ddc51095c0b4b3f153af3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
+            <value>Fiat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marca</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Volkswagen</label>
+            <language>en</language>
+            <name>x_333993_rent_a_0_veiculos</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2022-01-29 20:47:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bafde86297ddc51095c0b4b3f153af49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
+            <value>Volkswagen</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
