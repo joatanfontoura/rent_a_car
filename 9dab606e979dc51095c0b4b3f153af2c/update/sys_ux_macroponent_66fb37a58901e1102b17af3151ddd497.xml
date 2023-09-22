@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {&#13;
@@ -825,7 +826,6 @@
 } ]</data>
         <description/>
         <dispatched_events>62fb37a56b01e110ee4d7df03519fa8d</dispatched_events>
-        <events/>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
@@ -934,4 +934,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-02-16 15:20:02</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=66fb37a58901e1102b17af3151ddd497"/>
 </record_update>

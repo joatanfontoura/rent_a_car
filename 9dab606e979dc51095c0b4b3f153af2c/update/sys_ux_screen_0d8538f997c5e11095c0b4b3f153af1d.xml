@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Rent a Car Config">5248133b33e50110d0a15110e1427636</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {
   "eventMappingId" : "clehhjjjddgghaaccfkddffhhsiryqsccqi",
   "isConfiguration" : false,
@@ -206,6 +207,7 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2023-02-16 19:31:21</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>0d8538f997c5e11095c0b4b3f153af1d</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>RC Landing Page default</sys_name>
@@ -217,4 +219,5 @@
         <sys_updated_by>joatan</sys_updated_by>
         <sys_updated_on>2023-02-16 20:06:39</sys_updated_on>
     </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d8538f997c5e11095c0b4b3f153af1d"/>
 </record_update>

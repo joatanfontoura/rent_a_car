@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Rent a Car Config">5248133b33e50110d0a15110e1427636</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
         <macroponent display_value="Search results">72e447ee0b621010a8b1c96237673a7e</macroponent>
         <macroponent_config/>
@@ -17,6 +18,7 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2022-02-15 16:39:27</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>1a48133b5ae50110bea4bb9a62b6c236</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Search Default</sys_name>
@@ -28,4 +30,5 @@
         <sys_updated_by>joatan</sys_updated_by>
         <sys_updated_on>2022-02-15 16:39:27</sys_updated_on>
     </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a48133b5ae50110bea4bb9a62b6c236"/>
 </record_update>

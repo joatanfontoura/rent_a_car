@@ -21,4 +21,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-02-16 15:20:00</sys_updated_on>
     </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6fb37a52d01e11052f081f94e51ff8d"/>
 </record_update>

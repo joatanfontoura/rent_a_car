@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Rent a Car Portal Config">96fb37a59701e11095c0b4b3f153af6e</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Additional Details">aefb37a5e201e11092af7d1f1478e38c</macroponent>
         <macroponent_config>{
@@ -25,6 +26,7 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-02-16 15:20:01</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>62fb37a56001e110ee1dab77f03be38b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Additional Details Default</sys_name>
@@ -36,4 +38,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-02-16 15:20:01</sys_updated_on>
     </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=62fb37a56001e110ee1dab77f03be38b"/>
 </record_update>

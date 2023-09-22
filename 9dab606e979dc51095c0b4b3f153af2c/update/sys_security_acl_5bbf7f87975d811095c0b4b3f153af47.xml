@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>Funcionários e Frotistas podem cadastrar novas reservas.</description>
+        <local_or_existing>Local</local_or_existing>
         <name>x_333993_rent_a_0_reserva</name>
         <operation display_value="create">create</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2022-02-01 01:22:17</sys_created_on>

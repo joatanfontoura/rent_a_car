@@ -25,4 +25,5 @@
         <sys_updated_by>joatan</sys_updated_by>
         <sys_updated_on>2022-02-15 16:39:27</sys_updated_on>
     </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=da48133b69e50110213618126804b536"/>
 </record_update>

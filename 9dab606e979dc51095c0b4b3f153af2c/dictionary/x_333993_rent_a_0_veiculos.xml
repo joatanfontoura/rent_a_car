@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39fda86297ddc51095c0b4b3f153af26" label="Veículos" max_length="40" name="x_333993_rent_a_0_veiculos" type="collection">
+        <element label="Data de aquisição" max_length="40" name="aquisicao" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Ativo na frota" max_length="40" name="ativo" type="boolean"/>
+        <element label="VIN" max_length="255" name="chassi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="cor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Branco" sequence="0" value="Branco"/>
+                <element inactive_on_update="false" label="Prata" sequence="0" value="Prata"/>
+                <element inactive_on_update="false" label="Preto" sequence="0" value="Preto"/>
+                <element inactive_on_update="false" label="Vermelho" sequence="0" value="Vermelho"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Make" max_length="40" name="marca" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Chevrolet" sequence="0" value="Chevrolet"/>
+                <element inactive_on_update="false" label="Fiat" sequence="0" value="Fiat"/>
+                <element inactive_on_update="false" label="Volkswagen" sequence="0" value="Volkswagen"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="modelo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Observações" max_length="255" name="observacoes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Picture" max_length="40" name="picture" type="user_image"/>
+        <element label="Licence Plate" max_length="40" name="placa" type="string"/>
+        <element label="Data de venda" max_length="40" name="venda" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" max_length="40" name="year" type="integer"/>
+    </element>
+</database>

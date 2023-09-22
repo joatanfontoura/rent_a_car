@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
         <includes/>
         <macroponent display_value="Article page">e6fb37a55c01e110e8b54c1ef12d4994</macroponent>
         <name>Create knowledge feedback</name>

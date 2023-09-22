@@ -12,6 +12,7 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-02-16 15:20:02</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>6afb37a56301e110a29153e911358d97</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Popular articles event mapping</sys_name>

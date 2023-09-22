@@ -42,4 +42,5 @@
         <sys_updated_by>joatan</sys_updated_by>
         <sys_updated_on>2023-02-16 19:57:41</sys_updated_on>
     </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa8b7cf59709e11095c0b4b3f153aff3"/>
 </record_update>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>modelo</element>
-            <list_id display_value="x_333993_rent_a_0_veiculos" element="NULL" name="x_333993_rent_a_0_veiculos" parent="NULL" relationship="NULL" sys_domain="global" view="8aac33712f220010332e1e282799b6cd">793b06fa9751011095c0b4b3f153af74</list_id>
+            <list_id display_value="x_333993_rent_a_0_veiculos" element="NULL" name="x_333993_rent_a_0_veiculos" parent="NULL" relationship="NULL" sys_domain="global" view="889fc260f90211108c8bd16244dfe72a">793b06fa9751011095c0b4b3f153af74</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>joatan</sys_updated_by>
             <sys_updated_on>2022-01-30 22:13:05</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">8aac33712f220010332e1e282799b6cd</view>
+            <view display_value="Reference List" name="sys_ref_list">889fc260f90211108c8bd16244dfe72a</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

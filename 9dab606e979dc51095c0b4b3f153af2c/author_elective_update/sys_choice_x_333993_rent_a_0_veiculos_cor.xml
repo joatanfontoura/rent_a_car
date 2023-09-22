@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>joatan</sys_created_by>
             <sys_created_on>2022-01-29 20:47:15</sys_created_on>
-            <sys_id>76fde86297ddc51095c0b4b3f153af3f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>cor</sys_name>
             <sys_package display_value="Rent a Car" source="x_333993_rent_a_0">9dab606e979dc51095c0b4b3f153af2c</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2022-01-29 20:47:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fafde86297ddc51095c0b4b3f153af42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
             <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2022-01-29 20:47:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f2fde86297ddc51095c0b4b3f153af46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
             <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2022-01-29 20:47:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>fafde86297ddc51095c0b4b3f153af3e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
             <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2022-01-29 20:47:15</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3efde86297ddc51095c0b4b3f153af4c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
             <sys_updated_on>2022-01-29 20:47:15</sys_updated_on>

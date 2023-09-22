@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Rent a Car Config">5248133b33e50110d0a15110e1427636</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings/>
         <macroponent display_value="Attachment">3478e8db0f0210107d20409dc4767e89</macroponent>
         <macroponent_config>{&#13;
@@ -20,6 +21,7 @@
         <sys_created_by>joatan</sys_created_by>
         <sys_created_on>2022-02-15 16:39:28</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>9648133b89e501104506af5f36b12339</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Attachment</sys_name>
@@ -31,4 +33,5 @@
         <sys_updated_by>joatan</sys_updated_by>
         <sys_updated_on>2022-02-15 16:39:28</sys_updated_on>
     </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9648133b89e501104506af5f36b12339"/>
 </record_update>

@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Rent a Car Portal Config">96fb37a59701e11095c0b4b3f153af6e</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Task rejected">a2fb37a52801e11067bad8d78e959d93</macroponent>
         <macroponent_config>{
@@ -50,6 +51,7 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-02-16 15:20:01</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>eefb37a52701e1105fa73cf3444d748a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Task rejected Default</sys_name>
@@ -61,4 +63,5 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-02-16 15:20:01</sys_updated_on>
     </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=eefb37a52701e1105fa73cf3444d748a"/>
 </record_update>
